@@ -5,7 +5,7 @@ Projeto realizado no ambiente da disciplina de Redes e Sistemas Distribuídos (2
 
 ### Documentação
 No link abaixo está o acesso ao Javadoc do projeto:  
-[https://samuelrcosta.github.io/RMI-Produtor-Consumidor/](https://samuelrcosta.github.io/RMI-Produtor-Consumidor/)
+<a href="https://samuelrcosta.github.io/RMI-Produtor-Consumidor/" target="_blank">https://samuelrcosta.github.io/RMI-Produtor-Consumidor/</a>
 
 ## Integrantes
 * [Samuel Rocha Costa](https://github.com/samuelrcosta)
